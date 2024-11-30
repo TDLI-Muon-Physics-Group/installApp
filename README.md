@@ -21,7 +21,7 @@ Script to install essential application for research project at TDLI Muon Physic
    ./install_app.sh
    ```
    follow the instruction to install your favorite app
-3. restart terminal to take effect on the app.
+3. restart terminal to take effect.
 
 # Open item
 1. GUI is not supported.
