@@ -1,9 +1,15 @@
 # installApp
 Script to install essential application for research project at TDLI Muon Physics group
 
-Two type of app:
+## Two type of app:
 1. app as in application like android/mac app
 2. app used to launch virtual machine environment, in which it provide necessary libraries/dependencies for other packages (building muSrSim) ...
+
+## Available app
+
+1. ROOT
+2. GEANT4 + ROOT (VM)
+3. CrySim
 
 # Installation
 
